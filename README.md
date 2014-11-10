@@ -10,3 +10,5 @@ http://www.amazon.com/gp/product/1477581162/sr=1-2/qid=1385092341/ref=olp_produc
 http://www.amazon.com/Kodak-You-Shoulda-Been-There-ebook/dp/B00F65LRMO/ref=tmm_kin_swatch_0?_encoding=UTF8&sr=1-3&qid=1385092480
 
 http://www.csub.edu/kej/documents/economic_rsch/2012-04-23.pdf
+
+<img src="https://raw.githubusercontent.com/nannuk/test/ae815da40de38c6f9de817a561aec8865852e3b6/DSC_8190.jpg">
